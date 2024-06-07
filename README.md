@@ -11,6 +11,7 @@ A straightforward Python script that uses Selenium Webdriver to bruteforce forgo
 > change directory to unzip file.
 > Run this command to run InstaBrute "python instabrute.py".
 > Enter your Instagram Username to be bruteforce
+> add possible password guess in "pass_list.txt"
 >
 # Please exercise caution when using InstaBrute and keep the following in mind:
 
