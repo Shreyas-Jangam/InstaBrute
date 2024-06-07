@@ -12,7 +12,7 @@ A straightforward Python script that uses Selenium Webdriver to bruteforce forgo
 > Run this command to run InstaBrute "python instabrute.py".
 > Enter your Instagram Username to be bruteforce
 >
-#Please exercise caution when using InstaBrute and keep the following in mind:
+# Please exercise caution when using InstaBrute and keep the following in mind:
 
 1. Respect Privacy: When using this tool, keep others' rights and privacy in mind as this tool is devloped only for recovering instagram password of personal account.
 
