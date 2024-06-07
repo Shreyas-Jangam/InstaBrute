@@ -8,6 +8,7 @@ A straightforward Python script that uses Selenium Webdriver to bruteforce forgo
 > Unzip File.
 > Paste unzip file in Anaconda installation directory > Usually its C:\Users\USER
 > Open Anaconda prompt.
+> run this script in anaconda prompt as selenium is required "pip install selenium"
 > change directory to unzip file.
 > Run this command to run InstaBrute "python instabrute.py".
 > Enter your Instagram Username to be bruteforce
